@@ -497,7 +497,7 @@ function App() {
         <div className="mt-12 text-center">
           <div className="inline-flex items-center space-x-2 text-sm text-gray-600 bg-white/50 rounded-full px-4 py-2 backdrop-blur-sm">
             <Bot className="w-4 h-4" />
-            <span>Powered by BrowserUse AI Agent Technology with Live Browser Embedding</span>
+            <span>Built with Bolt.New</span>
           </div>
         </div>
       </div>
